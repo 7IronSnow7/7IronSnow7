@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently polishing up my own portfolio
 
-- 🌱 I’m currently learning **Python** 🐍
+- 🌱 I’m currently learning **Python** 🐍 and **Django** ⚙️ for this Portfolio 💼, mainly focusing on the portfolio itself and Django framework.
 
-- 👯 I’m looking to collaborate on **backend developing projects**
+- 💡 Seeking opportunities to collaborate on **various development initiatives**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/7IronSnow7](https://github.com/7IronSnow7)
 
